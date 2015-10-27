@@ -1,0 +1,33 @@
+{
+  "date": 1445934394556,
+  "version": "0.6.0-alpha1",
+  "fireball": "eb2c07c262a724151ac2c9c164772e6723e0f25c",
+  "hosts": {
+    "editor-framework": "dc2d96cf36fb10393386aa2835c9c6c93b896a20",
+    "asset-db": "a94d8d90153323ac244d989f280da2adb77931ec",
+    "cocos2d-html5": "5bca0a783d72bd7facd25df3968b842bbdc348ff"
+  },
+  "builtin": {
+    "console": "b37729f831179bd3466f7f378b7af08f13dfd825",
+    "color-picker": "bbc3c6240e4404c9d90a2ef3c8bfbcf86bc1ec55",
+    "code-editor": "612eaf31337d6fc5a2d3563450d90e07a07fcd5f",
+    "builder": "a15528c0b2b1b94352399417823e97b823f24f0d",
+    "assets": "243e7467cd7522795e19eaeb4eb83c4a7f1a8ce1",
+    "asset-db-debugger": "e4d2bacb5f2bb24b4cfa7672029c1b37a2a96e3d",
+    "fire-assets": "6323802bdfce49a4fd762f4ac2ad5771c35ddd67",
+    "scene": "13aefb7cf8dfcc6a0628676db8ca97c2cf70dd8f",
+    "release-helper": "a3c5564a5ee7b6dfc50ad56f26e4f386753b330c",
+    "package-manager": "6b9ffe9926e029c12d7c0fb4c2d0296b976ac39d",
+    "ipc-debugger": "c9f8d7fbb40e8b342cc13da4d0b924a89a5586ea",
+    "inspector": "a968384dc0896ac296f42e26e06e90efc6651e4f",
+    "hierarchy": "78a1d0ee45e7de797f383f11d6c8c57e5e66cd5e",
+    "fire-ui-kit": "fe4c1b193c7e8b3509f2caf924e59a7f94e85428",
+    "fire-gizmos": "c678780f9047ef16903a395de16c350813380ae3",
+    "tester": "5e2ca5afa937b4ac79886e5fdbce4b47e74a8b4a",
+    "ui-tree": "34fbd7f415b339102eeda9df64ae2909908f7482",
+    "ui-property": "a09c9276c9409dee918892ec3ea267939fc7e7b9",
+    "ui-kit": "dcc24566cffd7d7bed8d7c0f032d95177e4e96ae",
+    "ui-grid": "d4321b639d2fd6e37268e8c19e3b7d26cece8489",
+    "timeline": "b974486813bdb776d803c1d243804f2b9aaf294a"
+  }
+}
