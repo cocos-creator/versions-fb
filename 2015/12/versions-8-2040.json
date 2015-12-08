@@ -1,0 +1,35 @@
+{
+  "date": 1449578428326,
+  "version": "0.6.0-alpha2",
+  "fireball": "6c9ae481ef18263c130922c4166bd78f384128e5",
+  "hosts": {
+    "editor-framework": "d5dc46d1a5749b2b1d97f7db47c9415408975187",
+    "engine": "de822aff0a3702651fae6d9dc30c0803511449e9",
+    "asset-db": "f7d8f6234522bf6a274b3209de059ee002d3b472"
+  },
+  "builtin": {
+    "fire-assets": "63b5cedf530bd7f4d498fa77070db8bd0bda4ff3",
+    "console": "c4a50ccf1356460994986dece869b46a27ad377d",
+    "color-picker": "20d4d383534fc56dfbe080088b671643474db686",
+    "code-editor": "9df8a75ada57131d31cd4259cc93b688adb35251",
+    "builder": "9bbd3f5f8ea348cbc46ae4fb42e6590953540ca5",
+    "assets": "528096797e1e10bb3b73ecaaafe5a1a82cc56ae4",
+    "asset-db-debugger": "e4d2bacb5f2bb24b4cfa7672029c1b37a2a96e3d",
+    "fire-gizmos": "9d36e7579c17be2aee2da65fccc78da1ab7f1690",
+    "sprite-editor": "7fc68b8f877a73650ca441ce800f08299def88cf",
+    "scene": "e4e3c6ded931c849b639413794aca09ea0d29547",
+    "release-helper": "a3c5564a5ee7b6dfc50ad56f26e4f386753b330c",
+    "package-manager": "6b9ffe9926e029c12d7c0fb4c2d0296b976ac39d",
+    "ipc-debugger": "c9f8d7fbb40e8b342cc13da4d0b924a89a5586ea",
+    "inspector": "2ef095d37491b7c340ea95e2b7197c6afaab0425",
+    "hierarchy": "96b1127cea14e9f3d0ae648fbeb98c9aff7ab637",
+    "fire-ui-kit": "ac5886261d63f15e8ce15a420e3b34fb512d6f74",
+    "tester": "624a26a25389fbe096bb6f39f7dfa40b46460759",
+    "undo-debugger": "7d9643754133f41f068ebbb75a4e498d3d831ad8",
+    "ui-tree": "34fbd7f415b339102eeda9df64ae2909908f7482",
+    "ui-property": "bacb1b99319b02a216c3ff83373bc1a3484d16d5",
+    "ui-kit": "5c3a3e8f897693216e2d72551d4cfbea31e34625",
+    "ui-grid": "9e1dc3f9d400830efa99be1358be8ccec3320a7d",
+    "timeline": "a4dc7ff5766ed72c37793f0117ac7daf82698f79"
+  }
+}
