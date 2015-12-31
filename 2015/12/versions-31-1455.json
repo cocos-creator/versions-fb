@@ -1,0 +1,23 @@
+{
+  "date": 1451544904713,
+  "version": "0.7.0-rc4",
+  "fireball": "cfef3f488860a886afc1446affd6a4f8ff2fa4f6",
+  "hosts": {
+    "asset-db": "50a060582551c5348bb3a6c5a3fbb100e29458cc",
+    "engine": "18bd46763d6ecc2d3ec99009fab702bfc5fc3415",
+    "editor-framework": "a113f1c8627ca6522da764510ce86b2781cf9b71"
+  },
+  "builtin": {
+    "package-manager": "613873bc9a9f673236a0d846907b93b115ce3c93",
+    "ipc-debugger": "21e7ff5185d0a4ce5fee45ef635dda08f67847e2",
+    "console": "e0fa81d08056deae8bb2d904b2fd9ecd1798f45f",
+    "color-picker": "20d4d383534fc56dfbe080088b671643474db686",
+    "code-editor": "ca3968ca8eb5ec66b94aaf789b2e9f83083e86f6",
+    "asset-db-debugger": "832b4521b4881ec8df7560a5db9bd42a58072096",
+    "undo-debugger": "dbed732f07fa4f7167430aaf83f00f4643d0dd98",
+    "ui-tree": "4628bbdc520b53364cfe61d0418215c231b2a36f",
+    "ui-kit": "b51033e9a09392da6aad4cf68b675eba773a9ac4",
+    "ui-grid": "68f5df0031053b07f4ae1b7cc4746cb72b877060",
+    "tester": "80096ff10ee698a5cf1e9629c79ceac1f57cd8f7"
+  }
+}
