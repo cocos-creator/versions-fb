@@ -1,0 +1,21 @@
+{
+  "date": 1464674923774,
+  "version": "1.1.0",
+  "fireball": "815e36cd07db4b77984ddc2c36592b50011d7726",
+  "hosts": {
+    "editor-framework": "f3d224b7b142533b9192767e18081e4dc3b03ba2",
+    "engine": "32e0bd825462584b6401c931c778b4b014ea38d6",
+    "asset-db": "fd57fe18fb7a0544e7078cb510a795d2dc6bd40b"
+  },
+  "builtin": {
+    "tester": "ff53bbe310ddd9884589e008b05fc84b112c4677",
+    "package-manager": "8d293cb73d9fdaa666e69d6de65929d52d830139",
+    "console": "45f5bd03cdddf8d70a73aded6a4ee99742ee68cf",
+    "color-picker": "5b01765d9100b775a05771ecf4eb315a419e3722",
+    "code-editor": "aa9871e34f416a32420e42017a59daa00250ac4a",
+    "asset-db-debugger": "b40ec43ee096add20226c9c220012866a7ae367f",
+    "ui-grid": "f9cf90deb7971341534c6b4d1294931191310d10",
+    "ui-tree": "c8efc278b8cb60be3cd938d0ad14e5de34de83e4",
+    "ui-kit": "50b520566626ce903ad49f8a1eeb39b410a3c64f"
+  }
+}
